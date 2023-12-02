@@ -1,0 +1,40 @@
+<html>
+
+
+    <title> 
+       С новым годом!
+    </title>
+    <link href="style.css" rel="stylesheet" type="text/css"> 
+
+
+    <body>
+        <header>
+            <h1>Happy New Year!</h1>
+            <nav>
+                <a href="#pozdravleniya"> <b>Поздравления</b></a>
+                <a href="#otkr"> <b>Открытки</b></a>
+                <a href="#play"> <b>Плейлист</b></a>
+            </nav>
+        </header>
+        <main>
+            <h1 id="pozdravleniya">Поздравления</h1>
+            <p class="pozdr"> Наиболее оригинальные поздравления друзьям на новый год: </p>
+            <p>         С Новым годом поздравляем,
+                <br/>Счастья в жизни Вам желаем,
+                <br/> Много добрых пожеланий,
+                <br/> Исполненья всех мечтаний!
+                <br/>  Самых ярких впечатлений,
+                <br/>Самых сказочных мгновений.
+                <br/> Пусть Вам этот год несет
+                <br/> Много радостных хлопот!
+            </p>
+            <h1 id="otkr">Открытки</h1>
+                        <p class="pozdr"> Самые красивые открытки на НГ </p>
+    
+            <h1 id="play">Плейлист на Новый год</h1>
+                <iframe width="300" height="200" src="https://www.youtube.com/embed/hLf0-lro8X8" title="Frank Sinatra - Jingle Bells" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>           
+        </main>
+        <footer>
+        </footer>
+    </body>
+</html>
